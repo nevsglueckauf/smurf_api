@@ -9,6 +9,6 @@ __pycache__/
 
 # local stuff
 tmp/
- _archive/
- grube.*
+_archive/
+grube.*
  
